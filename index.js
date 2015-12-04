@@ -1,7 +1,7 @@
 // JavaScript File
 var application = angular.module("MyApp", []);
 
-application.controller("ctrl", function ctrl ($scope){
+application.controller("ctrl", function ($scope){
     
     $scope.details = {
         
